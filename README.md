@@ -1,4 +1,3 @@
-# CareerPath
 
 My name is Greg Bullington. I am currently learning the skill set to become a Full Stack Software Developer. 
 I really enjoy problem solving and the challenges that you face when trying to solve those problems. Making things work and finding out why they dont as it requires you to stop and think through the process of somethings function is enjoyable. 
