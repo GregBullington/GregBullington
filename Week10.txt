@@ -1,29 +1,42 @@
 Elevator Pitch
 What can you tell me about yourself?
+
 Im glad you asked! I got my start out of Highschool working  for a fantastic company, T-Mobile. I was able to set many life goals and accomplish all of them during my time there. Throughout my 7 years with the company I was also able to promote and navigate my way to a top performing position, and help push the company forward in many record setting metrics. Before rekindling my passion for code, I secured a spot in the 2020 inCrowd banquet and got awarded for being a top performing expert in the nation. I helped propel my team to number one in the nation in 2017, and by 2018 we were the number one site. I made the decision to become a developer because I love innovative tech and it is clear to me that the future is in technology. I have longed for a way to put my skills to use and be able to develope those skills while being challenged. My goal now is to be able to help create the future of innovative and next gen tech with web developement, mixed realities, and the metaverse, while having fun and continue learning new skills.
 
 STAR
 - Share an example of a time when you faced a difficult problem at work. How did you solve this problem?
 While working with T-Mobile I ran into a problem with a newly released iPhone series that had a strange issue with providing services despite having up to date software and brand new sim cards. This was a very big issues for customers as they were understandably frustrated especially after waiting sometimes weeks to start using their new products. In order to resolve the no service issues on the devices I had to put my knowledge of how the software worked and troubleshoot through a series of steps in order for the phones to verify the sim cards and allow for the services to come through to the devices.
+
 - Describe a time when you were under a lot of pressure at work. How did you react?
 Often times working in a customer service oriented postion you will find yourself in high stress high pressure situations with customers. I would often have customers calling in very irrate about certain situations with the company or their services and products. In order to de-escalate situation I was able to utilize methods of tailored acknowledgement and empathy statements to prove to a customer that I truly understand the way they are feeling and address and resolve their concers or issues. Strategic behaviors like these resulted in higher customer promoter scores and often additional sales.
+
 - Explain a situation where you used data or logic to make a recommendation.
 In my last role I was able to meet and exceed expecations with sales by simply performing visual audits around customers account data and take notice to the products and services they were currently using and what their usage data suggested they might need. Taking a look a customers current plan and what kind of data usage each line had provided fantastic opportunities to probe to their most used feaures and point out additional value and recommending  additional product types. This would often result in customers signing up for additional plans or services along with other product types.
+
 - Tell me about a time when you set and achieved a specific goal.
 I had come to a point in my life where I just couldnt be complacent with the position I was in with my career. I wanted a career change and so I had set a goal to become a software developer. In order to acheive that goal there were some steps to take before hand because I decided to enroll into a full time course to learn and become a developer. First thing was to make sure that my current financial situation would support the decision by minimizing the debts that were consming income, then having enough of a cusion to support neccessary costs. As soon as I was in a proper situation financially I was able to leave my last position on good standing and focus on alot of self learning courses and enroll. Going through a 13 week course of 500+ hours of hands on coding has resulted in an understanding of multiple programming languages and also certification of full stack development.
+
 - Share an example of a time you had to make a difficult decision. What did you do?
 Working as an elite account expert I would often have to make decisions that would be best for the company and for the customer. There would be times I would have a customer call in with promotional issue such as not receiving a particular payout or reimbursement and I would have to make the decision to work through providing it outside of the normal process or not. These decisions for me would have to made by looking at a number of different factors such as customer tenure and history. A customer would sometimes have data showing that they had received more discounts or credit back to their account than they had actually made in payment for services. This wouls result in me having to explain that that there is no way to provide anyadditional out of the box resolutions and they would have to accept the fact that they didnt meet the requirements necessary for payout. The best way I handled these situations was with very tailored understanding of the position they are in and verbalizing that while also showing empathy. I would usually also find an alternative way to provide more value instead of just lingering on the answer they did not want to get resulting in better cosing of the conversation.
+
 Interview Prep
+
 Things I could do to prepare for an interview would be looking into the company and specifically what it is that they are trying to acheive. Gathering information around their mission and the steps they are taking to achieve it will provide beneficial to the interviwer as it could provide insight to how serious of a candadate I would be. I would also make sure that all my information is up to date and I will have prepared an example of my skillset with portfolio pieces or even a portfolio site to showcase myself.
+
 Questions I would like to ask an interviewer. 
+
 - What do the most successful people here do differently than everyone else?
 Aligning myself with the answer to this question will allow me to be able to set additional goals to acheive.
+
 - What about my resume caught your attention for this position?
 The answer to this question would provide me insight on what things I could enhance my resme with. 
+
 - What would success look like in the first 90 days?
 This would allow me to be able to set short term goals to acheive acting as a stepping stone in acheiving the long term goals.
+
 - What are some traits that would make someone not a good fit for this role?
 I like what this question does. By asking this it can give the interviewer the sense that I am not necessarily going to jump on the first offer provided and show that I am looking into making sure that it is a good fit. 
+
 - What have people gone on to do in the company after holding this position?
 I feel like this question can give the assumption that I not only would be looking to stay at the company longer timeframes but also shows that I am focused on career growth.
 
