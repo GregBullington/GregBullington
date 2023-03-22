@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Greg Bullington</h1>
-<h3 align="center">A success driven software developer</h3>
+<h1 align="center">Hi 👋, I'm Greg.</h1>
+<h3 align="center">A software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregbullington&label=Profile%20views&color=0e75b6&style=flat" alt="gregbullington" /> </p>
 
 - 🔗 https://www.gregbullington.com
 
 - 📫 How to reach me **GBullington23@gmail.com**
-
-- ⚡ Fun fact **I love to design and build things such as cars, graphics, and code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
